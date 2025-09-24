@@ -1,6 +1,6 @@
 # Aidan J. Sabatini
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;5%2B+Years+of+Coding;Always+Learning+New+Things)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;8%2B+Years+of+Coding;Always+Learning+New+Things)
 
 ## 🚀 About Me
 - 💻 **Programming for:** 8+ years
