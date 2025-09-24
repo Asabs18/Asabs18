@@ -21,8 +21,6 @@
 
 ## 📊 GitHub Stats
 
-# FIX
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asabs18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asabs18&layout=compact&theme=tokyonight)
 
