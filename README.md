@@ -24,7 +24,7 @@
 
 # FIX
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project1&theme=tokyonight)](https://github.com/YourUsername/project1)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Asabs18&repo=Monopoly&theme=tokyonight)](https://github.com/Asabs18/Monopoly)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project2&theme=tokyonight)](https://github.com/YourUsername/project2)
 
 ## 🤝 Let's Connect
