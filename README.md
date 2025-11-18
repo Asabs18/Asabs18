@@ -4,9 +4,8 @@
 
 ## 🚀 About Me
 - 💻 **Programming for:** 8+ years
-- 📊 **GitHub Activity:** Daily contributor
-- 🎯 **Focus:** Full-stack development & problem solving
-- 🌱 **Currently exploring:** Crypto Currency + Cyber Security 
+- 🎯 **Focus:** Systems Programming & Cyber Security
+- 🌱 **Currently exploring:** Network Security & Crypto Currency
 
 ## 🛠️ Tech Stack
 
