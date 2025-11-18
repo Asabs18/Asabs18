@@ -15,8 +15,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asabs18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asabs18&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asabs18&theme=tokyonight)
-
 ## 🔥 Current Projects
 
 [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Asabs18&repo=Monopoly&theme=tokyonight)](https://github.com/Asabs18/Monopoly)
