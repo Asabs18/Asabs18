@@ -11,13 +11,7 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://skillicons.dev/icons?i=python) ![Rust](https://skillicons.dev/icons?i=rust) ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Go](https://skillicons.dev/icons?i=go)
-
-### Frontend & Backend
-# ADD LATER
-
-### Tools & Platforms
-# ADD LATER
+![Python](https://skillicons.dev/icons?i=python) ![Rust](https://skillicons.dev/icons?i=rust) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Go](https://skillicons.dev/icons?i=go)
 
 ## 📊 GitHub Stats
 
