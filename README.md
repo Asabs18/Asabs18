@@ -17,8 +17,8 @@
 
 ## 🔥 Current Projects
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Asabs18&repo=Monopoly&theme=tokyonight)](https://github.com/Asabs18/Monopoly)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Asabs18&repo=BlockchainDemo&theme=tokyonight)](https://github.com/Asabs18/BlockchainDemo)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Asabs18&repo=monopoly&theme=tokyonight)](https://github.com/Asabs18/monopoly)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Asabs18&repo=secure-chat&theme=tokyonight)](https://github.com/Asabs18/secure-chat)
 
 ## 🤝 Let's Connect
 
