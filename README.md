@@ -15,16 +15,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asabs18&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asabs18&theme=tokyonight)
 
-## 🔥 Current Projects
-<div align="center">
-  
-| Project | Description |
-|---------|-------------|
-| 🎲 [**Monopoly**](https://github.com/Asabs18/monopoly) | Python/Pygame Monopoly game implementation |
-| 💬 [**Secure Chat**](https://github.com/Asabs18/secure-chat) | Encrypted messaging application in Rust |
-
-</div>
-
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidan-sabatini/)
