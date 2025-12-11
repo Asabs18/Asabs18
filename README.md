@@ -11,7 +11,9 @@
 ![Python](https://skillicons.dev/icons?i=python) ![Rust](https://skillicons.dev/icons?i=rust) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Go](https://skillicons.dev/icons?i=go)
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Asabs18&theme=tokyonight)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asabs18&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asabs18&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asabs18&theme=tokyonight)
 
 ## 🔥 Current Projects
 <div align="center">
