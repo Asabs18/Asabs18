@@ -11,14 +11,18 @@
 ![Python](https://skillicons.dev/icons?i=python) ![Rust](https://skillicons.dev/icons?i=rust) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Go](https://skillicons.dev/icons?i=go)
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asabs18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asabs18&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Asabs18&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asabs18&theme=tokyonight)
 
 ## 🔥 Current Projects
+<div align="center">
+  
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🎲 [**Monopoly**](https://github.com/Asabs18/monopoly) | Your monopoly game implementation | Add your tech stack |
+| 💬 [**Secure Chat**](https://github.com/Asabs18/secure-chat) | Encrypted messaging application | Add your tech stack |
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Asabs18&repo=monopoly&theme=tokyonight)](https://github.com/Asabs18/monopoly)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Asabs18&repo=secure-chat&theme=tokyonight)](https://github.com/Asabs18/secure-chat)
+</div>
 
 ## 🤝 Let's Connect
 
