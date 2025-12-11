@@ -12,15 +12,14 @@
 
 ## 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Asabs18&theme=tokyonight)](https://git.io/streak-stats)
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asabs18&theme=tokyonight)
 
 ## 🔥 Current Projects
 <div align="center">
   
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🎲 [**Monopoly**](https://github.com/Asabs18/monopoly) | Your monopoly game implementation | Add your tech stack |
-| 💬 [**Secure Chat**](https://github.com/Asabs18/secure-chat) | Encrypted messaging application | Add your tech stack |
+| Project | Description |
+|---------|-------------|
+| 🎲 [**Monopoly**](https://github.com/Asabs18/monopoly) | Python/Pygame Monopoly game implementation |
+| 💬 [**Secure Chat**](https://github.com/Asabs18/secure-chat) | Encrypted messaging application in Rust |
 
 </div>
 
