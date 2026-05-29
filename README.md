@@ -9,23 +9,19 @@
 # 🚀 Portfolio Showcase
 
 <p align="center">
-  <a href="https://www.aidansabatini.com/">
-    <img 
-      src="https://img.shields.io/badge/🌐_EXPLORE_MY_PORTFOLIO-36BCF7?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=0D1117"
-      height="95"
-    />
-  </a>
+
+<a href="https://www.aidansabatini.com/">
+  <img src="https://img.shields.io/badge/🚀_CLICK_HERE_TO_VIEW_MY_PORTFOLIO-111111?style=for-the-badge&logo=github&logoColor=white" height="40"/>
+</a>
+
+<br>
+
+<a href="https://www.aidansabatini.com/">
+  <img src="https://img.shields.io/badge/🌐_AIDANSABATINI.COM-36BCF7?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=0D1117" height="100"/>
+</a>
+
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Projects;Systems+Programming;Cybersecurity+Research;Creative+Coding+%26+Visualizations" />
-</p>
-
-<p align="center">
-  <b>
-    Featured projects, interactive demos, technical writeups, and deep dives into the software I build.
-  </b>
-</p>
 
 ---
 
