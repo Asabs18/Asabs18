@@ -23,4 +23,6 @@
 
 ---
 
+<img src="https://github-profile-trophy.vercel.app/?username=Asabs18&theme=juicyfresh&no-bg=true" />
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Asabs18&color=blueviolet&style=flat-square&label=Profile+Views)
