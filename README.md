@@ -30,9 +30,8 @@
 ## 💻 About Me
 
 - 🎯 Focused on **Systems Programming & Cyber Security**
-- 🦀 Building projects in **Rust, C++, Python, and Web Technologies**
-- ⚡ Interested in low-level systems, blockchain, visualization, and creative coding
-- 📚 Sophomore Computer Science student constantly learning new technologies
+- 🦀 Building projects in **Rust, C/C++, Python, and Web Technologies**
+- 📚 Sophomore Computer Science student with a concentration in systems engineering
 
 ---
 
@@ -73,12 +72,6 @@
   <a href="mailto:aidan.j.sabatini@icloud.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-  <a href="https://www.aidansabatini.com/">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Asabs18&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
