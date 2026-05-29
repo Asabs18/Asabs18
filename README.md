@@ -31,7 +31,7 @@
 
 - 🎯 Focused on **Systems Programming & Cyber Security**
 - 🦀 Building projects in **Rust, C/C++, Python, and Web Technologies**
-- 📚 Sophomore Computer Science student with a concentration in systems engineering
+- 📚 Junior Computer Science student with a concentration in systems engineering
 
 ---
 
