@@ -21,6 +21,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aidan.j.sabatini@icloud.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.aidansabatini.com/)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Asabs18a&repo=poker)](https://github.com/Asabs18/poker)
+![Snake animation](https://github.com/Asabs18/Asabs18/blob/output/github-contribution-grid-snake.svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Asabs18&color=blueviolet&style=flat-square&label=Profile+Views)
