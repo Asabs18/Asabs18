@@ -5,8 +5,7 @@
 ## 🚀 About Me
 - 💻 **Programming for:** 8+ years
 - 🎯 **Focus:** Systems Programming & Cyber Security
-- 🌱 **Currently exploring:** Network Security & Crypto Currency
-
+  
 ### Languages
 ![Python](https://skillicons.dev/icons?i=python) ![Rust](https://skillicons.dev/icons?i=rust) ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Go](https://skillicons.dev/icons?i=go)
 
