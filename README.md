@@ -15,19 +15,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asabs18&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asabs18&theme=tokyonight)
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- Requires GitHub Action setup to generate automatically -->
-<img src="https://raw.githubusercontent.com/Asabs18/Asabs18/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidan-sabatini/)
