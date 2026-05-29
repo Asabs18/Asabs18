@@ -10,19 +10,21 @@
 
 <p align="center">
   <a href="https://www.aidansabatini.com/">
-    <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111111&color=36BCF7" height="70"/>
+    <img 
+      src="https://img.shields.io/badge/🌐_EXPLORE_MY_PORTFOLIO-36BCF7?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=0D1117"
+      height="95"
+    />
   </a>
 </p>
 
 <p align="center">
-  <b>
-    Full-stack projects • Systems programming • Cybersecurity • Creative coding
-  </b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Projects;Systems+Programming;Cybersecurity+Research;Creative+Coding+%26+Visualizations" />
 </p>
 
 <p align="center">
-  My portfolio contains featured projects, technical writeups, interactive demos,
-  and deep dives into the software and systems I build.
+  <b>
+    Featured projects, interactive demos, technical writeups, and deep dives into the software I build.
+  </b>
 </p>
 
 ---
